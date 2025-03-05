@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "Nicola Giannini"
+  ],
+  "category": "Threat Actors",
+  "description": "New threat actor",
+  "name": "Ghadamon",
+  "source": "Open Sources",
+  "type": "cyber crime",
+  "uuid": "7a956b4d-613c-4c08-b5d6-19974682aea8",
+  "values": [
+    {
+      "description": "È un avversario di matrice cyber crime attivo almeno dal 2020.Il gruppo colpisce attraverso campagne massive principalmente in Italia e in Giappone, ma anche in Paesi anglofoni. Tra le tecniche utilizzate figura il phishing e l’utilizzo di malware, anche di natura proprietaria.",
+  }
+],
+  "version": 1
+}
