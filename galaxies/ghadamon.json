@@ -1,0 +1,9 @@
+{
+  "description": "My Threat Actors",
+  "icon": "map",
+  "name": "Ghadamon",
+  "namespace": "misp",
+  "type": "cyber crime",
+  "uuid": "7a956b4d-613c-4c08-b5d6-19974682aea8",
+  "version": 1
+}
