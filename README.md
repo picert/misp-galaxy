@@ -411,6 +411,14 @@ Category: *sector* - source: *North American Industry Classification System - NA
 
 [[HTML](https://www.misp-galaxy.org/naics)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/naics.json)]
 
+## NATO
+
+[NATO](https://www.misp-galaxy.org/nato) - The North Atlantic Treaty Organization, also called the North Atlantic Alliance, is an intergovernmental transnational military alliance of 32 member states—30 European and 2 North American. Established in the aftermath of World War II, the organization implements the North Atlantic Treaty, signed in Washington, D.C., on 4 April 1949. NATO is a collective security system: its independent member states agree to defend each other against attacks by third parties. 
+
+Category: *actor* - source: *North Atlantic Treaty Organization - NATO* - total: *7* elements
+
+[[HTML](https://www.misp-galaxy.org/nato)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/nato.json)]
+
 ## NICE Competency areas
 
 [NICE Competency areas](https://www.misp-galaxy.org/nice-framework-competency_areas) - Competency areas based on the NIST NICE framework
@@ -495,7 +503,7 @@ Category: *actor* - source: *MISP Project* - total: *119* elements
 
 [Ransomware](https://www.misp-galaxy.org/ransomware) - Ransomware galaxy based on different sources and maintained by the MISP Project.
 
-Category: *tool* - source: *Various* - total: *1866* elements
+Category: *tool* - source: *Various* - total: *1875* elements
 
 [[HTML](https://www.misp-galaxy.org/ransomware)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/ransomware.json)]
 
@@ -535,7 +543,7 @@ Category: *sector* - source: *CERT-EU* - total: *118* elements
 
 [Sigma-Rules](https://www.misp-galaxy.org/sigma-rules) - MISP galaxy cluster based on Sigma Rules.
 
-Category: *rules* - source: *https://github.com/jstnk9/MISP/tree/main/misp-galaxy/sigma* - total: *2982* elements
+Category: *rules* - source: *https://github.com/jstnk9/MISP/tree/main/misp-galaxy/sigma* - total: *2983* elements
 
 [[HTML](https://www.misp-galaxy.org/sigma-rules)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/sigma-rules.json)]
 
@@ -599,7 +607,7 @@ Category: *tea-matrix* - source: ** - total: *7* elements
 
 [Threat Actor](https://www.misp-galaxy.org/threat-actor) - Known or estimated adversary groups targeting organizations and employees. Adversary groups are regularly confused with their initial operation or campaign. threat-actor-classification meta can be used to clarify the understanding of the threat-actor if also considered as operation, campaign or activity group.
 
-Category: *actor* - source: *MISP Project* - total: *800* elements
+Category: *actor* - source: *MISP Project* - total: *816* elements
 
 [[HTML](https://www.misp-galaxy.org/threat-actor)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/threat-actor.json)]
 
