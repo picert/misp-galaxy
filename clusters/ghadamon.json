@@ -7,11 +7,20 @@
   "name": "Ghadamon",
   "source": "Open Sources",
   "type": "cyber crime",
-  "uuid": "7a956b4d-613c-4c08-b5d6-19974682aea8",
+  "uuid": "7a956b6d-613c-7c08-b5d6-19974682aea8",
   "values": [
     {
-      "description": "È un avversario di matrice cyber crime attivo almeno dal 2020.Il gruppo colpisce attraverso campagne massive principalmente in Italia e in Giappone, ma anche in Paesi anglofoni. Tra le tecniche utilizzate figura il phishing e l’utilizzo di malware, anche di natura proprietaria.",
-  }
-],
-  "version": 1
+      "description": "È un avversario di matrice cyber crime attivo almeno dal 2020.Il gruppo colpisce attraverso campagne massive principalmente in Italia e in Giappone, ma anche in Paesi anwglofoni. Tra le tecniche utilizzate figura il phishing e l’utilizzo di malware, anche di natura proprietaria.",
+  
+       "meta": {
+        "detection": "Il mittente dell'e-mail è falsificato; Il mittente dell'e-mail appartiene a un dominio creato di recente; Presenza di errori di battitura o grammatica scadente nel testo dell'e-mail;",
+        "mitigation": "Implementazione dell'autenticazione DKIM e SPF per i mittenti di e-mail falsificati rilevati; soluzioni anti-phishing.",
+        "refs": [
+          "https://intelligence.ts-way.com/search?page=1&query=Ghadamon&type=adversaries"
+        ],
+      } 
+    } 
+  ],   
+
+  "version": 3
 }
